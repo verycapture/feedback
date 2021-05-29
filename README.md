@@ -1,16 +1,15 @@
-### Hi there 👋
+VeryCapture
 
-<!--
-**verycapture/verycapture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Verycapture is a screen capture software with powerful positioning function and beautiful design. There is no pressure on screen capture and recording.
+ 
+Verycapture has the following functions:
+ 
+- Full screen shot, rectangular shot
+- Arbitrary shape screenshot
+- Delayed screenshot
+- Long shot
+- Recording GIF / video
+- Pin diagram
+- OCR
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+we only have chinese version now in windows system, but the english version is coming soon, please hope! if you want this program, please download it free from https://verycapture.com
