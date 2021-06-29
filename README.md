@@ -19,4 +19,7 @@ Verycapture has the following functions:
 4. update the mouse cursor
 5. the default font changed to Microsoft Yahei
 
+this is the screen shot!
+![20210629163035](https://user-images.githubusercontent.com/85001142/123767141-d9f37700-d8f9-11eb-8d6e-5f6cf7c733dc.gif)
+
 if you want this program, please download it free from https://verycapture.com
